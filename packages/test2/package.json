@@ -1,0 +1,26 @@
+{
+  "name": "test2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "王敏 <569049370@qq.com>",
+  "homepage": "https://github.com/Jenny-Potter/lerna-test-first#readme",
+  "license": "ISC",
+  "main": "lib/test2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenny-Potter/lerna-test-first.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Jenny-Potter/lerna-test-first/issues"
+  }
+}
