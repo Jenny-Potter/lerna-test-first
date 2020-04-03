@@ -22,5 +22,11 @@
   },
   "bugs": {
     "url": "https://github.com/Jenny-Potter/lerna-test-first/issues"
+  },
+  "devDependencies": {
+    "test3includetest2": "^0.0.1"
+  },
+  "dependencies": {
+    "test3includetest2": "^0.0.1"
   }
 }
